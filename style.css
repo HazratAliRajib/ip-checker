@@ -1,0 +1,44 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url('background.jpg');
+}
+
+.info {
+    max-width: 60%;
+    margin: 2% auto;
+    padding: 35px;
+    background-color: #0c1323ab;
+    border-radius: 15px;
+    color: white;
+}
+
+  h1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  h2 {
+    /* font-size: 30px; */
+    /* font-weight: bold; */
+    text-align: center;
+  }
+
+  p {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0;
+}
+
+  .data {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+    font-size: 14px;
+  }
+  
+  .data label {
+    font-weight: bold;
+    min-width: 150px;
+  }
+  
